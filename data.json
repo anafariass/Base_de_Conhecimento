@@ -1,0 +1,21 @@
+[
+{
+    "nome": "Gal Costa", 
+    "descricao" : "Nome completo era Gal Maria da Graça Penna Burgos Costa, foi uma cantora e compositora brasileira nascida em Salvador, Bahia.",
+    "ano":1945,
+    "link": "https://open.spotify.com/intl-pt/artist/1b8kpp4DUwt1hWaxTiWQhD?si=BuBuyxKRTfqklFzMZ2t-NA"
+},
+
+{
+    "nome": "CCaetano Veloso", 
+    "descricao" : "Nascido em Santo Amaro da Purificação, Bahia, é um dos artistas brasileiros mais influentes da música popular brasileira contemporânea.",
+    "ano": 1942,
+    "link": "https://open.spotify.com/intl-pt/artist/7HGNYPmbDrMkylWqeFCOIQ?si=aMWSR_A_QUCWwd2TyAQ3uQ"
+},
+{
+    "nome": "Amy Winehouse", 
+    "descricao" : "Foi uma cantora, compositora e musicista britânica nascida em Londres, conhecida por seu poderoso contralto vocal e pela mistura eclética de gêneros como soul, jazz, R&B e ska",
+    "ano": 1983,
+    "link": "https://open.spotify.com/intl-pt/artist/6Q192DXotxtaysaqNPy5yR?si=U1CYI7UaRFyLyGpUDpiORA"
+}
+]
