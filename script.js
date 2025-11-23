@@ -1,8 +1,10 @@
 let dados = [];
 
+let campoBusca = document.querySelector("header input");
 let cardContainer = document.querySelector(".card-container");
 
 function renderizarCards(dados) {
+   cardContainer.innerHTML = "";
    for (let dado of dados) {
       let article = document.createElement("article");
       article.classList.add("card");
@@ -19,5 +21,21 @@ async function IniciarBusca() {
    let resposta = await fetch("data.json");
    dados = await resposta.json();
    renderizarCards(dados);
+
+   if (dados.length === 0) {
+      try {
+         let resposta = await fetch("backup.json");
+         dados = await resposta.json();
+      } catch (erro) {
+         console.log("Falha ao buscar dados:", error);
+         return
+      }
+   }
+
+   const termoBusca = campoBusca.value.toLowerCase();
+   const dadosFiltrados = dados.filter(dado => 
+      dado.nome.toLowerCase().includes(termoBusca) || dado.descricao.toLowerCase().includes(termoBusca));
+   
+   redenrizarCards(dadosFiltrados);
 }
 
