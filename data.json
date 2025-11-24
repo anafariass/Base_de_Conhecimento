@@ -1,21 +1,170 @@
 [
-{
-    "nome": "Gal Costa", 
-    "descricao" : "Nome completo era Gal Maria da Graça Penna Burgos Costa, foi uma cantora e compositora brasileira nascida em Salvador, Bahia.",
-    "ano":1945,
-    "link": "https://open.spotify.com/intl-pt/artist/1b8kpp4DUwt1hWaxTiWQhD?si=BuBuyxKRTfqklFzMZ2t-NA"
-},
-
-{
-    "nome": "Caetano Veloso", 
-    "descricao" : "Nascido em Santo Amaro da Purificação, Bahia, é um dos artistas brasileiros mais influentes da música popular brasileira contemporânea.",
-    "ano": 1942,
-    "link": "https://open.spotify.com/intl-pt/artist/7HGNYPmbDrMkylWqeFCOIQ?si=aMWSR_A_QUCWwd2TyAQ3uQ"
-},
-{
-    "nome": "Amy Winehouse", 
-    "descricao" : "Foi uma cantora, compositora e musicista britânica nascida em Londres, conhecida por seu poderoso contralto vocal e pela mistura eclética de gêneros como soul, jazz, R&B e ska",
-    "ano": 1983,
-    "link": "https://open.spotify.com/intl-pt/artist/6Q192DXotxtaysaqNPy5yR?si=U1CYI7UaRFyLyGpUDpiORA"
-}
-]
+    {
+      "nome": "Gal Costa",
+      "descricao": "Nome completo era Gal Maria da Graça Penna Burgos Costa, foi uma cantora e compositora brasileira nascida em Salvador, Bahia.",
+      "ano": 1945,
+      "link": "https://open.spotify.com/intl-pt/artist/1b8kpp4DUwt1hWaxTiWQhD?si=BuBuyxKRTfqklFzMZ2t-NA"
+    },
+    {
+      "nome": "Caetano Veloso",
+      "descricao": "Nascido em Santo Amaro da Purificação, Bahia, é um dos artistas brasileiros mais influentes da música popular brasileira contemporânea.",
+      "ano": 1942,
+      "link": "https://open.spotify.com/intl-pt/artist/7HGNYPmbDrMkylWqeFCOIQ?si=aMWSR_A_QUCWwd2TyAQ3uQ"
+    },
+    {
+      "nome": "Amy Winehouse",
+      "descricao": "Foi uma cantora, compositora e musicista britânica nascida em Londres, conhecida por seu poderoso contralto vocal e pela mistura eclética de gêneros como soul, jazz, R&B e ska",
+      "ano": 1983,
+      "link": "https://open.spotify.com/intl-pt/artist/6Q192DXotxtaysaqNPy5yR?si=U1CYI7UaRFyLyGpUDpiORA"
+    },
+    {
+      "nome": "Chico Buarque",
+      "descricao": "Compositor e cantor essencial da MPB, conhecido por suas letras sofisticadas e engajamento político. Um mestre da crônica musical.",
+      "ano": 1944,
+      "link": "https://open.spotify.com/artist/4VLXw6dE9XpS7A7S1HjLVe"
+    },
+    {
+      "nome": "Elis Regina",
+      "descricao": "Uma das maiores intérpretes brasileiras de todos os tempos, dona de uma voz potente, técnica apurada e presença performática inigualável.",
+      "ano": 1945,
+      "link": "https://open.spotify.com/artist/0tAAJ9qFv0E9zN3k8F0Qa7"
+    },
+    {
+      "nome": "David Bowie",
+      "descricao": "Ícone camaleônico do rock, pop e art rock, conhecido por sua reinvenção constante e influência cultural massiva (Starman, Ziggy Stardust).",
+      "ano": 1947,
+      "link": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+    },
+    {
+      "nome": "Radiohead",
+      "descricao": "Banda britânica de rock alternativo e experimental, aclamada pela complexidade sonora e letras introspectivas.",
+      "ano": 1985,
+      "link": "https://open.spotify.com/artist/4Z8W4Jtw21V9590SGoC8FG"
+    },
+    {
+      "nome": "Tom Jobim",
+      "descricao": "Maestro, compositor e pianista, um dos criadores fundamentais da Bossa Nova e da música popular brasileira com reconhecimento mundial.",
+      "ano": 1927,
+      "link": "https://open.spotify.com/artist/7pSqIsmN8SO3MoahNPMSaP"
+    },
+    {
+      "nome": "Rita Lee",
+      "descricao": "Rainha do rock brasileiro, irreverente, pioneira e essencial na fusão de rock psicodélico e pop nacional, membro dos Mutantes.",
+      "ano": 1947,
+      "link": "https://open.spotify.com/artist/7LiD9MicroPC03OwS5MMx8"
+    },
+    {
+      "nome": "Kendrick Lamar",
+      "descricao": "Rapper americano aclamado pela crítica, conhecido por narrativas complexas, poesia lírica e inovações no hip hop contemporâneo.",
+      "ano": 1987,
+      "link": "https://open.spotify.com/artist/2YZyLoL8N0WJb9xSy4PkD3"
+    },
+    {
+      "nome": "Beyoncé",
+      "descricao": "Superestrela global de R&B e Pop, conhecida por performances teatrais, produção impecável e por elevar o padrão da música pop moderna.",
+      "ano": 1981,
+      "link": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+    },
+    {
+      "nome": "Cartola",
+      "descricao": "Mestre do samba e da canção popular brasileira, fundador da Estação Primeira de Mangueira, com letras profundas e melancólicas.",
+      "ano": 1908,
+      "link": "https://open.spotify.com/artist/0rpXzOFU5Wz8D5WStwEozH"
+    },
+    {
+      "nome": "Björk",
+      "descricao": "Artista islandesa de vanguarda, experimental e eletrônica, conhecida por sua voz única e por quebrar barreiras artísticas.",
+      "ano": 1965,
+      "link": "https://open.spotify.com/artist/7hbRZBoBPYpXQQNFjX94oE"
+    },
+    {
+      "nome": "Tim Maia",
+      "descricao": "Ícone da soul music e R&B brasileiro, famoso por sua voz grave e poderosa, e por misturar gêneros com irreverência.",
+      "ano": 1942,
+      "link": "https://open.spotify.com/artist/4dOaE6PD6PJwAyrNFBt1cC"
+    },
+    {
+      "nome": "Titãs",
+      "descricao": "Uma das bandas de rock mais influentes do Brasil, com uma trajetória marcada por letras críticas e mudanças de estilo ao longo das décadas.",
+      "ano": 1982,
+      "link": "https://open.spotify.com/artist/2AHO5Nje0WbXzXzJ2ZgUqZ"
+    },
+    {
+      "nome": "Queen",
+      "descricao": "Banda britânica de rock lendária, conhecida pela fusão de hard rock, ópera e pop, e pelo carisma inigualável de Freddie Mercury.",
+      "ano": 1970,
+      "link": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg2I"
+    },
+    {
+      "nome": "Duda Beat",
+      "descricao": "Cantora e compositora brasileira que mistura pop, eletrônico e ritmos nordestinos como o brega, sendo uma voz importante do Novo Pop.",
+      "ano": 1987,
+      "link": "https://open.spotify.com/artist/2CShvmoSFkbiU8qDBh5Mx6"
+    },
+    {
+      "nome": "Louis Armstrong",
+      "descricao": "Trompetista e cantor americano, uma das figuras mais importantes e influentes da história do jazz e da música popular do século XX.",
+      "ano": 1901,
+      "link": "https://open.spotify.com/artist/19eWNSKqgJ2oT3sdqW3QeE"
+    },
+    {
+      "nome": "Etta James",
+      "descricao": "Lenda americana do blues, R&B, soul e jazz, famosa por sua voz visceral e emotiva, especialmente em 'At Last'.",
+      "ano": 1938,
+      "link": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJp"
+    },
+    {
+      "nome": "Rosalía",
+      "descricao": "Cantora espanhola que revitalizou o flamenco, misturando-o com pop, trap e música eletrônica moderna, com impacto global.",
+      "ano": 1992,
+      "link": "https://open.spotify.com/artist/7ltDVBr6mKbRvohiycdcJp"
+    },
+    {
+      "nome": "The Beatles",
+      "descricao": "Banda britânica que revolucionou a música pop e rock nos anos 60, definindo o formato da música moderna e da cultura pop.",
+      "ano": 1960,
+      "link": "https://open.spotify.com/artist/3WrFJ7ztdeN5WzEHF8DBlS"
+    },
+    {
+      "nome": "Luiz Gonzaga",
+      "descricao": "O Rei do Baião, compositor e instrumentista essencial para a difusão da música nordestina (Forró e Baião) no Brasil inteiro.",
+      "ano": 1912,
+      "link": "https://open.spotify.com/artist/6FWVLqGsM9BTOJjXhrnZg9"
+    },
+    {
+      "nome": "Billie Eilish",
+      "descricao": "Jovem artista americana que define o pop alternativo da Geração Z, conhecida por sua sonoridade minimalista e estética distinta.",
+      "ano": 2001,
+      "link": "https://open.spotify.com/artist/6qqNVTkY87iqsPBF4xm1Bz"
+    },
+    {
+      "nome": "Maria Bethânia",
+      "descricao": "Cantora e intérprete brasileira, conhecida por sua dramaticidade e presença de palco, uma das maiores vozes da MPB.",
+      "ano": 1946,
+      "link": "https://open.spotify.com/artist/0jO9yS6d0QeF75a6b5B4zj"
+    },
+    {
+      "nome": "Milton Nascimento",
+      "descricao": "Um dos principais nomes do Clube da Esquina e da MPB, conhecido por sua extensão vocal e fusão de folclore, jazz e música clássica.",
+      "ano": 1942,
+      "link": "https://open.spotify.com/artist/3HWkSgVnJr3JmiUYqcpNGx"
+    },
+    {
+      "nome": "Liniker e os Caramelows",
+      "descricao": "Banda brasileira de soul e black music contemporânea, com forte apelo à diversidade e liderada pela cantora e atriz Liniker.",
+      "ano": 2015,
+      "link": "https://open.spotify.com/artist/2vQGQmvbWceLzE7Z0vmhxD"
+    },
+    {
+      "nome": "Bad Bunny",
+      "descricao": "Ícone porto-riquenho do trap latino e reggaeton, com enorme impacto global e responsável por popularizar o gênero em mercados internacionais.",
+      "ano": 1994,
+      "link": "https://open.spotify.com/artist/4q3ewBac8ReK7lkbiBstfE"
+    },
+    {
+      "nome": "Ella Fitzgerald",
+      "descricao": "A 'Primeira Dama da Canção', uma das vocalistas de jazz mais puras, famosa por seu scat singing e clareza de dicção.",
+      "ano": 1917,
+      "link": "https://open.spotify.com/artist/5V0MlUE1BhkLgH39CA7htL"
+    }
+  ]
